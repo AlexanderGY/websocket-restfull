@@ -1,0 +1,31 @@
+{
+  "name": "websocket-restfull",
+  "version": "0.0.1",
+  "description": "The CRUD router for Socket.io, Mongoose, Express.js and Websokets: API is promisified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderGY/websocket-restfull.git"
+  },
+  "keywords": [
+    "websocket",
+    "socket",
+    "crud",
+    "rest",
+    "restfull",
+    "promise",
+    "socket.io",
+    "express",
+    "mongoose",
+    "mongodb"
+  ],
+  "author": "alexile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderGY/websocket-restfull/issues"
+  },
+  "homepage": "https://github.com/AlexanderGY/websocket-restfull#readme"
+}
